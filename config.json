@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingrelete",
+        "uuid": 13314674,
+        "checksum": "az3ui"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
